@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[Email]: Librado3rd@gmail.com
+[Email]: mailto:Librado3rd@gmail.com
 [Instagram]: https://www.instagram.com/sheepdesigns/
 [Linkedin]: https://www.linkedin.com/in/Librado3rd/
