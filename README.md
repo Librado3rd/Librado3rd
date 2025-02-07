@@ -9,8 +9,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Librado3rd/configure-ad)
   - [VPN Setup in Virtual Machine](https://github.com/Librado3rd/vpn)
-- <b>Troubleshooting</b>
-  - [IT Helpdesk: Common Network Issues & Fixes](https://github.com/Librado3rd/common-it-issues)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://github.com/user-attachments/assets/0157ab59-59e5-4ad6-b8c2-c2d1d2186b4d" />][email]
