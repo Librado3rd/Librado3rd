@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Tech Blog</b>
-  -[Daily Journey Tech Blog](https://github.com/Librado3rd/Tech_Blog)
+  - [Daily Journey Tech Blog](https://github.com/Librado3rd/Tech_Blog)
 - <b>Help Desk Projects</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Librado3rd/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Librado3rd/ticket-lifecycle)
