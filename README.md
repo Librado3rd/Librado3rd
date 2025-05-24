@@ -5,7 +5,7 @@
   <li><a href="https://github.com/Librado3rd/Tech_Blog"> Daily Journey Tech Blog</a></li>
 </ul>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects</h2>
 <ul>
   <li><a href="https://github.com/Librado3rd/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
   <li><a href="https://github.com/Librado3rd/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
