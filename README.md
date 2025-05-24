@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Tech Blog</b>
+  -[Daily Journey Tech Blog](https://github.com/Librado3rd/Tech_Blog)
+- <b>Help Desk Projects</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Librado3rd/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Librado3rd/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Librado3rd/ticket-lifecycle)
-- <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Librado3rd/configure-ad)
   - [VPN Setup in Virtual Machine](https://github.com/Librado3rd/vpn)
 <h2>🤳Connect with me:</h2>
