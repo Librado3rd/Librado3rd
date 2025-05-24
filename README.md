@@ -1,10 +1,10 @@
 <h1>Hi, I'm Librado, an <a href="https://linkedin.com/in/Librado3rd">IT Professional</a>☺</h1>
 
 <h2>✍️Tech Blog</h2>
-  - [Daily Journey Tech Blog](https://github.com/Librado3rd/Tech_Blog)
+- [Daily Journey Tech Blog](https://github.com/Librado3rd/Tech_Blog)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-  - [osTicket: Prerequisites and Installation](https://github.com/Librado3rd/osticket-prereqs)
+- [osTicket: Prerequisites and Installation](https://github.com/Librado3rd/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Librado3rd/ticket-lifecycle)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Librado3rd/configure-ad)
   - [VPN Setup in Virtual Machine](https://github.com/Librado3rd/vpn)
